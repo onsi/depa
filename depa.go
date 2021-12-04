@@ -1,7 +1,9 @@
 package depa
 
-const A_VERSION = "1.0.0"
+import "github.com/onsi/depalpha/beta"
+
+const A_VERSION = "1.1.0"
 
 func A() string {
-	return "A"
+	return "A" + beta.Beta()
 }

@@ -1,6 +1,7 @@
-github.com/onsi/depalpha v1.1.0 h1:w5ORQuFpNU+tlNrjbljX6zsvlalDdBf3A3eqiMPYRnc=
+github.com/onsi/depa v1.0.0/go.mod h1:ktkpJ8hGYEJw1HEwOESryBeU6nu+UxpSL29burtDJY8=
+github.com/onsi/depa v1.1.0/go.mod h1:Y54MnPZkwivIcou5ePvHCDKGsiN72hhL+ZtpG/CzVwM=
+github.com/onsi/depa v1.2.0/go.mod h1:6O0o2ZHtNybYN8bLA2E8gUIYEssyzOPlWoA/yX4zOfM=
 github.com/onsi/depalpha v1.1.0/go.mod h1:1ePQQhRe8KtM7nTn5UmRBNvo3Zt4q0E7OdIiQ9aydbo=
-github.com/onsi/depalpha v1.2.0 h1:wGUiARdGu442YAg8mJZBrKXkVlK3WHkYkFotu5eFAU8=
 github.com/onsi/depalpha v1.2.0/go.mod h1:PQIYYYO0BOyplNYeXmYLh3y99TEe0DybH/EJFiuCa5Q=
 github.com/onsi/depalpha v1.3.0 h1:j82CZWTE5UuN7kl7QhRLrD2zkd+ByFWEhDL4asustG8=
 github.com/onsi/depalpha v1.3.0/go.mod h1:iGcKWb1yK0H537w7xb5jKBoCYh0PYg5DMxVNMXeyx3A=

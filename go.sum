@@ -2,8 +2,10 @@ github.com/onsi/depa v1.0.0/go.mod h1:ktkpJ8hGYEJw1HEwOESryBeU6nu+UxpSL29burtDJY
 github.com/onsi/depa v1.1.0/go.mod h1:Y54MnPZkwivIcou5ePvHCDKGsiN72hhL+ZtpG/CzVwM=
 github.com/onsi/depa v1.2.0/go.mod h1:6O0o2ZHtNybYN8bLA2E8gUIYEssyzOPlWoA/yX4zOfM=
 github.com/onsi/depa v1.4.0/go.mod h1:ql8ssGS/B7Ki3iuIZmHxV5zCLjEWSges0ROgc7Pw19w=
+github.com/onsi/depa v1.5.0/go.mod h1:Q/fHmrGL8s5PhHwaR1zG4bVuxpCxd+T1eJXdTwqYXWA=
 github.com/onsi/depalpha v1.1.0/go.mod h1:1ePQQhRe8KtM7nTn5UmRBNvo3Zt4q0E7OdIiQ9aydbo=
 github.com/onsi/depalpha v1.2.0/go.mod h1:PQIYYYO0BOyplNYeXmYLh3y99TEe0DybH/EJFiuCa5Q=
 github.com/onsi/depalpha v1.3.0/go.mod h1:iGcKWb1yK0H537w7xb5jKBoCYh0PYg5DMxVNMXeyx3A=
-github.com/onsi/depalpha v1.4.0 h1:b/FIT9wiC7eSTC3X0egqTa9EX/ZkRwpDQbbuK2+GGy0=
 github.com/onsi/depalpha v1.4.0/go.mod h1:8Ig6wpJRFpqlVTVhY0F2OaVi7NOh5MXoqr37eX+oCnU=
+github.com/onsi/depalpha v1.5.0 h1:aCe9Dk+tUEaPrBQ0IVxKAzV3skuE9iYrOdO1cPLcVLE=
+github.com/onsi/depalpha v1.5.0/go.mod h1:JJS9ir8PXWocncfM2FZrg1fmDn01m5M2nzNy0GzOHmE=
